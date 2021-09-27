@@ -186,6 +186,10 @@ input {
 }
 @media screen and (max-width:986px) {
     body {
-        background-image: url("default.jpg");
+         background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-image: url('deafault.jpg');
     }
     }
